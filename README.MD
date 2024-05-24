@@ -86,7 +86,7 @@ Use a web browser or a tool like SOAP-UI to inspect the WSDL. The WSDL describes
    - **GetCompte:** Retrieve a specific account.
    - **GetComptes:** Retrieve the list of accounts.
 
-![SOAP-UI Test](./Test.png)
+![img.png](img.png)
 
 ## Creating a SOAP Client
 
